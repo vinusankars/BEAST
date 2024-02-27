@@ -1,2 +1,2 @@
 # BEAST
-Implementation of BEAST adversarial attack for language models
+We will update the codes in a couple of weeks. Stay tuned!
