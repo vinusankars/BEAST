@@ -1,5 +1,5 @@
 # BEAST: Beam Search-based Adversarial Attack
-> Official implementation of ["Fast Adversarial Attacks on Language Models In One GPU Minute"](https://arxiv.org/abs/2402.15570) Vinu Sankar Sadasivan, Shoumik Saha, Gaurang Sriramanan, Priyatham Kattakinda, Atoosa Chegini, and Soheil Feizi (2024).
+> Official implementation of ["Fast Adversarial Attacks on Language Models In One GPU Minute"](https://arxiv.org/abs/2402.15570) Vinu Sankar Sadasivan, Shoumik Saha, Gaurang Sriramanan, Priyatham Kattakinda, Atoosa Chegini, and Soheil Feizi. Accepted at the Internation Conference on Machine Learning (ICML) 2024.
 
 
 **TL;DR:** Run gradient-free adversarial attacks on chat bots in 1 GPU minute  with beam-search. Perform targeted and untargeted atatcks on aligned models to induce jailbreaks and hallucinations. 
